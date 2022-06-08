@@ -1,2 +1,3 @@
-# dio-github-desafio
-desafio dio para criar repositorio 
+# Teste de repositório para a DIO
+</p>primeiro desafio do bootcamp de dev Fullstack
+</p>
